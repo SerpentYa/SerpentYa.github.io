@@ -1,6 +1,6 @@
 @font-face{
 	font-family: GothicCentury;
-	src: url(https://github.com/SerpentYa/SerpentYa.github.io/raw/main/CenturyGothic.ttf);
+	src: url(CenturyGothic.ttf);
 }
 body{
 	background-color: rgb(25,25,25,1.0);
