@@ -1,0 +1,42 @@
+@font-face{
+	font-family: GothicCentury;
+	src: url(CenturyGothic.TTF);
+}
+body{
+	background-color: rgb(25,25,25,1.0);
+}
+
+.title{
+	text-align: center;
+	font-family: GothicCentury;
+	font-size: 50px;
+	color: white;
+}
+.navbar {
+	overflow: hidden;
+  background-color: rgb(25,25,25,0.85);
+  
+}
+.navbar a{
+	padding: 25px;
+float: left;
+text-decoration: none;
+font-family: GothicCentury;
+font-size: 30px;
+color: rgb(255,255,255,1.0);
+}
+
+.navbar a:hover{
+	color: rgb(0,0,0);
+}
+.tekstit{
+	font-family: GothicCentury;
+	font-size: 30;
+}
+.aboutme{
+
+	position: center;
+
+	font-size: 15px;
+	font-family: GothicCentury;
+}
