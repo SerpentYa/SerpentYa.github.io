@@ -1,6 +1,6 @@
 @font-face{
 	font-family: GothicCentury;
-	src: url(CenturyGothic.TTF);
+	src: url(../CenturyGothic.TTF);
 }
 body{
 	background-color: rgb(25,25,25,1.0);
